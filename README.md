@@ -53,4 +53,4 @@ GitHub
 
    [Inspirado en la clase de Gunnar Wolf ❤][df1]
 
-   [df1]: <https://github.com/gwolf/clase-sistop-2017-01>
+   [df1]: <https://github.com/gwolf>
