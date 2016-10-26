@@ -7,7 +7,19 @@
 Este repositorio es el espacio de entrega para la solución al reto que se premiará con una entrada gratis al Hackathon Bancomer
 
 
+## ¿Cómo lo usarás?
+
+1. Debes tener una cuenta en GitHub.
+
+2. Debes hacer un fork de este repositorio y desarrollaras tu solución en tu fork.
+
+3. Cuando estés contento con el desarrollo, haz un pull request. Eso (y únicamente eso) contará como solucion.
+
+
+
+
 La razón para utilizar un árbol Git es que te vayas familiarizando con las principales herramientas de colaboración para el desarrollo de software.
+
 
 ¿Qué es Git y cómo se usa?
 
@@ -36,17 +48,6 @@ GitHub
   Otra explicación del modelo de interacción de GitHub.
 * [Sometimes you just need a little help](https://help.github.com/)
   Amplia lista de preguntas y respuestas de GitHub.
-
-
-## ¿Cómo lo usarás?
-
-1. Debes tener una cuenta en GitHub.
-
-2. Debes hacer un fork de este repositorio y desarrollaras tu solución en tu fork.
-
-3. Cuando estés contento con el desarrollo, haz un pull request. Eso (y únicamente eso) contará como solucion.
-
-
 
 
 
