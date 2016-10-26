@@ -4,7 +4,7 @@
 
 ¡Bienvenido!
 
-Este repositorio es el espacio de entrega para el reto que premiará con una entrada gratis al Hackathon Bancomer
+Este repositorio es el espacio de entrega para la solucion al reto que se premiará con una entrada gratis al Hackathon Bancomer
 
 
 ¿Qué es Git y cómo se usa?
